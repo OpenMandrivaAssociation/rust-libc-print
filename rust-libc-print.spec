@@ -4,8 +4,8 @@
 %global crate libc-print
 
 Name:           rust-%{crate}
-Version:        0.1.16
-Release:        2
+Version:        0.5.0
+Release:        1
 Summary:        Println! and eprintln! macros on libc without stdlib
 
 # Upstream license specification: Apache-2.0 OR MIT
